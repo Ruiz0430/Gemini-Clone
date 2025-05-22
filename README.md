@@ -1,7 +1,6 @@
 # Gemini-Clone
 
-## Check out my portfolio
-[Dannysportfolio.net](Dannysportfolio.net)
+## [Check out my portfolio](https://github.com/Ruiz0430/My-Portfolio.git)
 
 ## Description
 Gemini clone is a clone of Google's LLM known as Gemini. The Gemini clone will allow the user to type in a query and in turn a response will be fetched from the web using the Gemini API and in turn answer the question. This project was built using React jsx.
